@@ -24,5 +24,5 @@ Improving problem-solving skills with Java and LeetCode.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/nicolas-noboru-taniguchi-94742016b/
-Email: nicolas.taniguchi@outlook.com
+- LinkedIn: https://www.linkedin.com/in/nicolas-noboru-taniguchi-94742016b/
+- Email: nicolas.taniguchi@outlook.com
