@@ -1,16 +1,28 @@
-## Hi there 👋
+# Nicolas Taniguchi
 
-<!--
-**NicolasNT/NicolasNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer in progress ☕
 
-Here are some ideas to get you started:
+Currently studying:
+- Java
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for 2026
+- Build solid backend projects
+- Learn Spring Boot
+- Contribute to open source
+- Get my first backend developer role
+
+## Current Focus
+Improving problem-solving skills with Java and LeetCode.
+
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## Contact
+LinkedIn: your-linkedin  
+Email: your-email
