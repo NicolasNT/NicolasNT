@@ -1,4 +1,4 @@
-# Olá, meu nome é {Nicolas Noboru Taniguchi}!
+# Hello, my name is {Nicolas Noboru Taniguchi}!
 
 Backend Developer in progress ☕
 
